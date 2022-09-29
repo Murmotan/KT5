@@ -1,0 +1,5 @@
+C:\Users\negak\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Release\net6.0\DemoSplitFiles.csproj.AssemblyReference.cache
+C:\Users\negak\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Release\net6.0\DemoSplitFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\negak\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Release\net6.0\DemoSplitFiles.AssemblyInfoInputs.cache
+C:\Users\negak\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Release\net6.0\DemoSplitFiles.AssemblyInfo.cs
+C:\Users\negak\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Release\net6.0\DemoSplitFiles.csproj.CoreCompileInputs.cache
